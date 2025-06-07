@@ -2,7 +2,7 @@
 
 ## About Me
 - 💻 I am an **IP network exorcist** :-D, too code's strummer, plumber at some internet service providers 
-- ⚙ **Crafting** code for tiny brain, too on **FreeRTOS**... sometimes I add a bunch of push-ups R :-D
+- ⚙ **Crafting** code for tiny brain, too on **FreeRTOS**... sometimes I add a bunch of pull-ups R :-D
 - 📍 Based in Italy (JN61WL)
 - 💓 I have gone through about ten OS, from CPM to Linux, with only one love: the **C language**
 - 💓 I play with different Linux distro, but my first love is Linux **Slackware**
