@@ -1,15 +1,18 @@
 ## Hi there 👋
 
 ## About Me
-- 💻 I am an **IP network exorcist** :-D, too code's strummer, plumber at some internet service providers 
-- ⚙ **Crafting** code for tiny brain, too on **FreeRTOS**... sometimes I add a bunch of pull-ups R :-D
+- 💻 I am an **IP network exorcist** :-D who strums code for fun and does the plumbing for a few internet service providers
+- 🏢 Running **RINUX** since 2000: networks and Linux systems for ISPs, public administration and small businesses — [rinux.it](https://www.rinux.it)
+- 🌐 Daily bread: **BGP**, MikroTik, Cisco, RIPE Database and RPKI
+- ⚙ **Crafting** code for tiny brains, also on **FreeRTOS**... sometimes I add a bunch of pull-ups R :-D
 - 📍 Based in Italy (JN61WL)
-- 💓 I have gone through about ten OS, from CPM to Linux, with only one love: the **C language**
-- 💓 I play with different Linux distro, but my first love is Linux **Slackware**
-- 📡 HAM,very active last century in AmprNET, AX25, APRS (first APRS gate in EU)
-- 🐶 FidoNET SysOP @ Line Bank BBS (Node 2:335/10)
+- 💓 I have gone through about ten OS, from CP/M to Linux, with only one love: the **C language**
+- 💓 I play with different Linux distros, but my first love is Linux **Slackware**
+- 📡 HAM, very active last century in AmprNET, AX.25, APRS (first APRS gate in EU)
+- 🐶 FidoNet SysOp @ Line Bank BBS (Node 2:335/10)
+- 🤝 Around **ITNOG**, **FrusiNOG** and **RIPE** meetings; RIPE Database Associate
 - ⚡️ I love beta testing and exploring new technologies and applications
-- 😄 I enjoy meeting new people and discussing technology, projects, and everyday topics 
+- 😄 I enjoy meeting new people and discussing technology, projects, and everyday topics
 
 <!--
 **iw0der/iw0der** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
