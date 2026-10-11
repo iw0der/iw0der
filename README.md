@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 ## About Me
-- 💻 I am an **IP network exorcist** :-D who strums code for fun and does the plumbing for a few internet service providers
-- 🏢 Running **RINUX** since 2000: networks and Linux systems for ISPs, public administration and small businesses — [rinux.it](https://www.rinux.it)
+- 💻 I am an **IP network exorcist** :-D who strums code for fun and plumbs a few ISPs
+- 🏢 Running **RINUX** since 2000: networks and Linux systems for ISPs, public sector and SMBs
 - 🌐 Daily bread: **BGP**, MikroTik, Cisco, RIPE Database and RPKI
 - ⚙ **Crafting** code for tiny brains, also on **FreeRTOS**... sometimes I add a bunch of pull-ups R :-D
 - 📍 Based in Italy (JN61WL)
