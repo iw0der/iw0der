@@ -10,7 +10,7 @@
 - 💓 I play with different Linux distros, but my first love is Linux **Slackware**
 - 📡 HAM, very active last century in AmprNET, AX.25, APRS (first APRS gate in EU)
 - 🐶 FidoNet SysOp @ Line Bank BBS (Node 2:335/10)
-- 🤝 Around **ITNOG**, **FrusiNOG** and **RIPE** meetings; RIPE Database Associate
+- 🤝 Around **FrusiNOG**, **ITNOG** and **RIPE** meetings; RIPE Database Associate
 - ⚡️ I love beta testing and exploring new technologies and applications
 - 😄 I enjoy meeting new people and discussing technology, projects, and everyday topics
 
